@@ -1,4 +1,4 @@
-# airbnb
+# tesla
 
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
@@ -13,9 +13,17 @@
 > This app is a fully functional Tesla Clone built with React-Native and Expo-CLI.
 
 ## To use the App
-- [Link to Expo Store]()
+- [Link to Expo Store](https://expo.dev/@shubh73/tesla?serviceType=classic&distribution=expo-go)
 
 Scan the QR code from the above link with your Expo App with Android/Iphone
 
 ## Design Overview
+<p float="left">
+  <img src="./mockups/HomeScreen.png" height="600"/>
+  <img src="./mockups/InventoryScreen.png" height="600"/>
+  <img src="./mockups/Options.png" height="600"/>
+  <img src="./mockups/VideoScreen.png" height="600"/>
+  <img src="./mockups/VideoScreen2.png" height="600"/>
+  <img src="./mockups/OrderPlaced.png" height="600"/>
+</p>
 
